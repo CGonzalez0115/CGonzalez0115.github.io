@@ -1,11 +1,11 @@
 # Site settings
-author: Christina Gonzalez
-title: 
+author: Christina
+title: Coding moms anonymous
 header-img: img/home-bg.png
 email: cmgamway@gmail.com
-copyright_name: Christina Gonzalez
+copyright_name: Christina
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The learning rollercoaster of a mom
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  CGonzalez0115
