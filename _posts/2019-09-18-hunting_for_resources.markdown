@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hunting for Resources"
-date:       2019-09-18 06:12:22 +0000
+date:       2019-09-18 02:12:23 -0400
 permalink:  hunting_for_resources
 ---
 
