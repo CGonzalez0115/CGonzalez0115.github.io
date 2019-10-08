@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Not Overthinking Problems"
-date:       2019-10-08 02:38:37 +0000
+date:       2019-10-07 22:38:38 -0400
 permalink:  not_overthinking_problems
 ---
 
