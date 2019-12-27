@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Data Gem: Art Throughout the Years"
-date:       2019-12-27 19:29:41 +0000
+date:       2019-12-27 14:29:41 -0500
 permalink:  cli_data_gem_art_throughout_the_years
 ---
 
