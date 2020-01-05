@@ -15,7 +15,7 @@ A class method is a method that is bound to a class rather than its object. It i
 Instance methods are methods that require an object of its class to be created before it can be called. 
 
 A class method provides a purpose to the class itself, whereas an instance method provides a purpose to only one instance of a class. When you are using a class method you cannot call this upon an instance, however, you do have the ability to call this upon the class. As is vice versa with the use of an instance class.
-![](https://i.imgur.com/9ExB6JA.jpg)
+![](<a href="https://imgur.com/9ExB6JA"><img src="https://i.imgur.com/9ExB6JA.jpg" title="source: imgur.com" /></a>)
 For example, if you called find on this Alphabet class it would work. If you called letter on the class it would raise an error.
 
 There are multiple ways to define class methods such as the two below.
