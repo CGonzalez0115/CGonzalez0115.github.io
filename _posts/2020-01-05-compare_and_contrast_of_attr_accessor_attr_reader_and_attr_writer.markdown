@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Compare and contrast of attr_accessor, attr_reader, and attr_writer"
-date:       2020-01-06 00:56:40 +0000
+date:       2020-01-05 19:56:41 -0500
 permalink:  compare_and_contrast_of_attr_accessor_attr_reader_and_attr_writer
 ---
 
